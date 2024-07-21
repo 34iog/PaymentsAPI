@@ -1,5 +1,9 @@
 # Intuit Payment API
 
+## Design 
+
+![Design Diagram](Design.drawio.png)
+
 ## Questions
 
 ### Question 1
